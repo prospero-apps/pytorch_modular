@@ -3,7 +3,8 @@ Collection of functions to use with PyTorch
 
 # PyTorch Helper Functions
 
-This repository holds a collection of helper functions designed to streamline the process of training, evaluating, and visualizing results with PyTorch models.
+This repository holds a collection of helper functions designed to streamline the process of training, evaluating, and visualizing results with PyTorch models. 
+Many of these functions come from Daniel Bourke's ebook 'Zero to Mastery Learn PyTorch for Deep Learning', with some modifications.
 
 ## Functions Included
 
